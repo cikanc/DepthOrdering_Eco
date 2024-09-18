@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a9cd6d5c-97bf-4780-928a-dcb2e3e8b006" name="Eco">
+        <fileTransfer accessType="SFTP" host="175.102.135.189" port="32962" sshConfigId="3168dead-ecd8-4c67-be42-52c1f345c0b6" sshConfig="root@175.102.135.189:32962 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="95d4e32e-956d-44e2-850b-0540c57e3cb9" name="depth">
+        <fileTransfer accessType="SFTP" host="175.102.135.189" port="32962" sshConfigId="3168dead-ecd8-4c67-be42-52c1f345c0b6" sshConfig="root@175.102.135.189:32962 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
